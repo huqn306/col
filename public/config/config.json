@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xcc644a24bfead05698240b1340be6687cc0e739f",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xcc644a24bfead05698240b1340be6687cc0e739f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "cool dog",
+  "SYMBOL": "CDNFT",
+  "MAX_SUPPLY": 9989,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cool-dog-test1",
+  "SHOW_BACKGROUND": true
+}
